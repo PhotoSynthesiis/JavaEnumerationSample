@@ -99,7 +99,7 @@
       <file leaf-file-name="Length.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/classes/Length.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="13" selection-start="381" selection-end="381" vertical-scroll-proportion="0.45774648">
+            <state line="19" column="5" selection-start="366" selection-end="366" vertical-scroll-proportion="0.38732395">
               <folding />
             </state>
           </provider>
@@ -458,7 +458,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1420" height="805" extended-state="0" />
+    <frame x="10" y="22" width="1420" height="805" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -613,7 +613,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/classes/Length.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="13" selection-start="381" selection-end="381" vertical-scroll-proportion="0.45774648">
+        <state line="19" column="5" selection-start="366" selection-end="366" vertical-scroll-proportion="0.38732395">
           <folding />
         </state>
       </provider>
